@@ -1,1 +1,1 @@
-print("Hello local test")
+print("Hello local without token")
