@@ -1,1 +1,1 @@
-print("Hello Project1")
+print("Hello No Token")
